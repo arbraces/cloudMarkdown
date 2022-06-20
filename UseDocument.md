@@ -26,7 +26,9 @@
 | 2-01 | 评价菜品| 需要用户授权登录，获取头像 |
 | 2-02 | 搜索菜品| 输入菜品名称即可 |
 | 2-03 | 选择菜品分类| 选择后会显示相关菜品，不是该分类的菜品将会被隐藏 |
+| 2-04 | 反馈|  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjIwNjYxNCwxNzgyOTMwODkyXX0=
+eyJoaXN0b3J5IjpbMTEzNzE4Njc2OCwxMzk2MjA2NjE0LDE3OD
+I5MzA4OTJdfQ==
 -->
