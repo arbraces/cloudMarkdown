@@ -24,8 +24,9 @@
 |  操作编号 | 操作名称  | 操作说明 |
 | ------------ | ------------ | ------------ |
 | 2-01 | 评价菜品| 需要用户授权登录，获取头像 |
-| 2-01 | 评价菜品| 需要用户授权登录，获取头像 |
+| 2-02 | 搜索菜品| 输入菜品名称即可 |
+| 2-03 | 选择菜品分类| 选择后会显示相关菜品，不是改分类的菜品将会被y'chang |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNzYxODI0LDE3ODI5MzA4OTJdfQ==
+eyJoaXN0b3J5IjpbMTcxMjM4MjAzMiwxNzgyOTMwODkyXX0=
 -->
