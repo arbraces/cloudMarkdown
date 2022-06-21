@@ -17,7 +17,7 @@ Tips: 请配合 <u>使用文档相关编号配到教程</u> 使用
 | 1-09  | 查看菜品评价  | ①点击菜品评价 | |
 | 1-10  | 查看反馈中心  | ①点击反馈中心 |
 | 1-11  | 数据导出  | ①点击数据导出，②点击下载评论数据 |数据导出格式为 xlsx |
-| 1-12  | 暗色模式  |  | |
+| 1-12  | 暗色模式  | ①点击开关 | |
 
 <br/>
 
@@ -31,6 +31,6 @@ Tips: 请配合 <u>使用文档相关编号配到教程</u> 使用
 
 <br/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjI5MjQzNSwxMTM3MTg2NzY4LDEzOT
-YyMDY2MTQsMTc4MjkzMDg5Ml19
+eyJoaXN0b3J5IjpbODY4NDcyODY2LDExMzcxODY3NjgsMTM5Nj
+IwNjYxNCwxNzgyOTMwODkyXX0=
 -->
