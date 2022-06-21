@@ -24,13 +24,13 @@ Tips: 请配合 <u>使用文档相关编号配到教程</u> 使用
 ### 2.小程序端功能
 |  操作编号 | 操作名称  | 操作步骤 | 操作说明 |
 | ------------ | ------------ | ------------ | ------------ |
-| 2-01 | 评价菜品| 需要用户授权登录，获取头像 |
-| 2-02 | 搜索菜品| 输入菜品名称即可 |
-| 2-03 | 选择菜品分类| 选择后会显示相关菜品，不是该分类的菜品将会被隐藏 |
+| 2-01 | 评价菜品| |需要用户授权登录，获取头像 |
+| 2-02 | 搜索菜品| |输入菜品名称即可 |
+| 2-03 | 选择菜品分类| |选择后会显示相关菜品，不是该分类的菜品将会被隐藏 |
 | 2-04 | 反馈|  |
 
 <br/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NDcyODY2LDExMzcxODY3NjgsMTM5Nj
-IwNjYxNCwxNzgyOTMwODkyXX0=
+eyJoaXN0b3J5IjpbLTQ5MjY5OTUxMiwxMTM3MTg2NzY4LDEzOT
+YyMDY2MTQsMTc4MjkzMDg5Ml19
 -->
