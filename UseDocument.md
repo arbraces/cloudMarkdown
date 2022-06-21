@@ -6,7 +6,7 @@ Tips: 请配合 <u>使用文档相关编号配到教程</u> 使用
 ### 1.网页端功能
 |  操作编号 | 操作名称  | 操作步骤 | 操作说明 |
 | ------------ | ------------ | ------------ | ------------  |
-| 1-01  | 登录  |  | 登录可完成后面的操作 |
+| 1-01  | 登录  | ①输入邮箱，②输入密码，③登录 | 登录可完成后面的操作 |
 | 1-02  | 添加管理员  |  | |
 | 1-03  | 查找管理员  |  | |
 | 1-04  | 删除管理员  |  | |
@@ -31,6 +31,6 @@ Tips: 请配合 <u>使用文档相关编号配到教程</u> 使用
 
 <br/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTU4NDI4NSwxMTM3MTg2NzY4LDEzOT
-YyMDY2MTQsMTc4MjkzMDg5Ml19
+eyJoaXN0b3J5IjpbNzI0NjYxMTI4LDExMzcxODY3NjgsMTM5Nj
+IwNjYxNCwxNzgyOTMwODkyXX0=
 -->
