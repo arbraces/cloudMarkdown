@@ -28,7 +28,12 @@
 | 2-03 | 选择菜品分类| 选择后会显示相关菜品，不是该分类的菜品将会被隐藏 |
 | 2-04 | 反馈|  |
 
+<br/>
+
+### 3.相关操作
+1-01登录
+![image]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzE4Njc2OCwxMzk2MjA2NjE0LDE3OD
-I5MzA4OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDY4NTYwMzUsMTEzNzE4Njc2OCwxMz
+k2MjA2NjE0LDE3ODI5MzA4OTJdfQ==
 -->
